@@ -28,7 +28,7 @@ My work spans **software engineering, product design, and digital platforms** wi
 - Node.js · Express · PostgreSQL · REST APIs · JWT Authentication
 
 **Design**
-- Figma · Design Systems · UI/UX · Branding
+- Figma · Design Systems · Adobe · UI/UX · Branding
 
 **DevOps / Cloud**
 - Git · GitHub · Vercel · Render · Cloudflare · CI/CD Pipelines
@@ -87,7 +87,7 @@ I designed and built my personal website from scratch and deployed it using a fu
 ## Let’s Connect
 
 - GitHub: https://github.com/Kienda
-- LinkedIn: *(add when ready)*
+- LinkedIn: https://www.linkedin.com/in/abdoulaye-alhassane-diallo/
 - Portfolio: https://abdoulayediallo.com
 
 ---
